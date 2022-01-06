@@ -8,6 +8,10 @@ h1{
     font-size: 45px;
 }
 
+h2{
+    font-size: 35px;
+}
+
 #left-border-text{
     border-left: 4px solid tomato;
     border-radius: 2px;
@@ -69,7 +73,7 @@ a{
     background-color: rgba(65, 105, 225, 0.267);
 }
 
-#vission{
+#vision{
     background-color: rgba(255, 255, 0, 0.274);
 }
 
