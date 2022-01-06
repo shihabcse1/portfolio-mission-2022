@@ -105,3 +105,10 @@ p{
     background-position: right bottom;
     background-size: 40%;
 }
+
+footer{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px;
+}
