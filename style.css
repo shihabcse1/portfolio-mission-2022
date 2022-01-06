@@ -23,7 +23,7 @@ h1{
     color: tomato;
 }
 
-.first-container{
+.flexible-container{
     display: flex;
 }
 
@@ -49,4 +49,27 @@ p{
     width: 60%;
     margin: auto;
     display: block;
+}
+
+.second-container-item{
+    width: 30%;
+    padding: 25px;
+    border-radius: 20px;
+    margin: 2%;
+}
+
+.second-container-item img{
+    width: 40%;
+}
+
+#mission{
+    background-color: rgba(65, 105, 225, 0.267);
+}
+
+#vission{
+    background-color: rgba(255, 255, 0, 0.274);
+}
+
+#goals{
+    background-color: rgba(153, 205, 50, 0.308);
 }
