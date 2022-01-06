@@ -82,6 +82,9 @@ p{
 
 #third-section-first-part{
     width: 40%;
+}
+
+.third-section-background{
     background-image: url(/images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -94,4 +97,11 @@ p{
 
 #third-section-second-part{
     width: 60%;
+}
+
+.forth-section-background{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 40%;
 }
