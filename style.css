@@ -11,11 +11,12 @@ h1{
 #left-border-text{
     border-left: 4px solid tomato;
     border-radius: 2px;
+    border-right: 2px;
     padding: 10px;
 }
 
 #small-paragraph{
-    padding-top: 20px;
+    padding-top: 8px;
     font-size: 15px;
 }
 
@@ -29,14 +30,14 @@ h1{
 }
 
 a{
-    background-color: tomato;
+    background-color: brown;
     text-decoration: none;
     padding: 12px 35px;
     color: white;
     border-radius: 5px;
 }
 
-p{
+.custom-p{
     padding-bottom: 20px;
     font-size: 20px;
 }
@@ -106,9 +107,28 @@ p{
     background-size: 40%;
 }
 
+
+.three-quarter-item{
+    width: 50%;
+    padding: 5%;
+}
+
+.quarter-item{
+    width: 20%;
+    padding: 5%;
+}
+
+.progress-bar{
+    width: 500%;
+}
+
 footer{
-    background-color: black;
+    background-color: #0B0D17;
     color: whitesmoke;
     text-align: center;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
+
+
+
